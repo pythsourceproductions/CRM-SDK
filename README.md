@@ -1,4 +1,4 @@
-# Circle of Mercury SDK
+# Circle of Mercury SDK v0.1
 Circle of Mercury SDK
 
 ### Contains:
