@@ -15,3 +15,12 @@ Circle of Mercury SDK
 >
 > Valve Hammer Editor 5.2 created by **Slartibarty**
 
+
+### Changelog:
+
+0.1
+
+- First version
+- First version of scheme-style
+- First version of settings window
+
