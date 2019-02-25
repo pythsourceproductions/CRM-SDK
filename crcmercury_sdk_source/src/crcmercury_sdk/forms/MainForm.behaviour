@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<behaviours>
+  <target id="rectAlt">
+    <behaviour animated="" opacity="0.7" opacityEnabled="" type="behaviour\custom\DraggingFormBehaviour"/>
+  </target>
+</behaviours>
