@@ -41,5 +41,29 @@
     </LabelEx>
     <Data cursor="DEFAULT" enabled="1" id="data-label4" visible="1"/>
     <Data cursor="DEFAULT" enabled="1" id="data-rect4" visible="1"/>
+    <TextField alignment="CENTER_LEFT" editable="true" focusTraversable="true" id="hammer_path" layoutX="32" layoutY="88" prefColumnCount="12" prefHeight="32" prefWidth="424" promptText="" styleClass="text-input text-field " text="">
+      <font>
+        <Font name="System Regular" size="12"/>
+      </font>
+    </TextField>
+    <Data cursor="DEFAULT" enabled="1" id="data-hammer_path" visible="1"/>
+    <LabelEx alignment="CENTER_LEFT" autoSize="false" contentDisplay="LEFT" ellipsisString="..." focusTraversable="false" graphicTextGap="4" id="label5" layoutX="32" layoutY="64" prefHeight="24" prefWidth="176" styleClass="label " text="Visual Studio Code .exe path" textAlignment="LEFT" textFill="#bfbfbf" underline="false" wrapText="false">
+      <font>
+        <Font name="Tahoma" size="11"/>
+      </font>
+    </LabelEx>
+    <Data cursor="DEFAULT" enabled="1" id="data-label5" visible="1"/>
+    <LabelEx alignment="CENTER_LEFT" autoSize="false" contentDisplay="LEFT" ellipsisString="..." focusTraversable="false" graphicTextGap="4" id="label6" layoutX="32" layoutY="128" prefHeight="24" prefWidth="176" styleClass="label " text="Garry's Mod folder" textAlignment="LEFT" textFill="#bfbfbf" underline="false" wrapText="false">
+      <font>
+        <Font name="Tahoma" size="11"/>
+      </font>
+    </LabelEx>
+    <Data cursor="DEFAULT" enabled="1" id="data-label6" visible="1"/>
+    <TextField alignment="CENTER_LEFT" editable="true" focusTraversable="true" id="edit" layoutX="32" layoutY="152" prefColumnCount="12" prefHeight="32" prefWidth="424" promptText="" styleClass="text-input text-field " text="">
+      <font>
+        <Font name="System Regular" size="12"/>
+      </font>
+    </TextField>
+    <Data cursor="DEFAULT" enabled="1" id="data-edit" visible="1"/>
   </children>
 </AnchorPane>
