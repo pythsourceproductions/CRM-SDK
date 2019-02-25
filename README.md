@@ -11,7 +11,7 @@ Circle of Mercury SDK
 
 > I use these projects for free use and transfer
 >
-> SDK Launcher writted on Java based JPHP 7
+> SDK Launcher writted on JPHP 7 based on Java
 >
 > Valve Hammer Editor 5.2 created by **Slartibarty**
 
