@@ -10,6 +10,8 @@ Circle of Mercury SDK
 - Visual Studio Code Workspace (first you need to configure the paths for workspace)
 
 > I use these projects for free use and transfer
+
 > SDK Launcher writted on Java based JPHP 7
+
 > Valve Hammer Editor 5.2 created by **Slartibarty**
 
