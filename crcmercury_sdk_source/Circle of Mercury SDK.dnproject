@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<project author="denis" authorOS="Windows 8.1" createdAt="1551102649763" ideName="DevelNext" ideVersion="16.7.0" ideVersionHash="2017103112" name="Circle of Mercury SDK" packageName="crcmercury_sdk" template="ide\project\templates\DefaultGuiProjectTemplate" updatedAt="1551111508496">
+<project author="denis" authorOS="Windows 8.1" createdAt="1551102649763" ideName="DevelNext" ideVersion="16.7.0" ideVersionHash="2017103112" name="Circle of Mercury SDK" packageName="crcmercury_sdk" template="ide\project\templates\DefaultGuiProjectTemplate" updatedAt="1551121774332">
   <tree>
     <expanded>
     <path src=""/>
@@ -16,8 +16,8 @@
   <openedFiles>
   <file src="Circle of Mercury SDK.dnproject"/>
     <file src="src/crcmercury_sdk/modules/MainModule.php"/>
-    <file selected="1" src="src/crcmercury_sdk/forms/MainForm.php"/>
-    <file src="src/crcmercury_sdk/forms/SDK_SETTINGS.php"/>
+    <file src="src/crcmercury_sdk/forms/MainForm.php"/>
+    <file selected="1" src="src/crcmercury_sdk/forms/SDK_SETTINGS.php"/>
   </openedFiles>
   <files/>
   <behaviours>
