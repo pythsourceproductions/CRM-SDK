@@ -24,3 +24,8 @@ Circle of Mercury SDK
 - First version of scheme-style
 - First version of settings window
 
+v0.2
+- Updated styles.css (updated style for buttons, added tabs)
+- Updated SDK settings window (added tabs, also "Hammer Config")
+- Added window "About" with links to GitHub Page / Wiki 
+- The list of tools now has the -focus property
