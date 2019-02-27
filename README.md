@@ -18,13 +18,13 @@ Circle of Mercury SDK
 
 ### Changelog:
 
-0.1
+**v0.1**
 
 - First version
 - First version of scheme-style
 - First version of settings window
 
-v0.2
+**v0.2**
 - Updated styles.css (updated style for buttons, added tabs)
 - Updated SDK settings window (added tabs, also "Hammer Config")
 - Added window "About" with links to GitHub Page / Wiki 
