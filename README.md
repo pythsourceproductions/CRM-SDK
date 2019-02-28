@@ -8,8 +8,6 @@ Circle of Mercury SDK
 
 - Valve Hammer Editor 5.2 ([Slammin' tools for Source 2013 SP and MP)](https://forum.facepunch.com/dev/bvenk/Slammin-Source-map-tools)
 
-~~- Visual Studio Code Workspace (first you need to configure the paths for workspace)~~
-
 > I use these projects for free use and transfer
 >
 > SDK Launcher writted on JPHP 7 based on Java
@@ -40,3 +38,7 @@ Circle of Mercury SDK
 - Updated **styles.css**
 - The settings window was cleared, as there is no need to configure any tool at the moment
 - Log System in sdk.log
+
+### Bug's and Fix's:
+
+If you find a bug, or you have suggestions for improving the SDK, you can contact me at Discord(**URAKOLOUY5#9719**) or email **URAKOLOUY2@yandex.ru**
