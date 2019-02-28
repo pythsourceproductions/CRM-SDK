@@ -39,3 +39,4 @@ Circle of Mercury SDK
 - Added statistics on top of the tool list.
 - Updated **styles.css**
 - The settings window was cleared, as there is no need to configure any tool at the moment
+- Log System into sdk.logo
